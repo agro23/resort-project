@@ -1,18 +1,23 @@
 h1 {
-  color: darkred;
+  color: teal;
+  font-family: sans-serif;
 }
 
 h2 {
   font-style: italic;
-  color: red;
+  color: chartreuse;
 }
 
 p {
-  color: crimson;
+  color: brown;
+  font-weight: 500;
 }
 
+ul {
+  text-align: center;
+}
 body {
-  background-color: salmon;
+  background-color: #999999;
   font-family: sans-serif;
   text-align: center;
 }
